@@ -12,7 +12,7 @@ ms.custom: sap:Certificates and Public Key Infrastructure (PKI)\Active Directory
 
 This article describes how to export Root Certification Authority Certificate.
 
-_Applies to:_ &nbsp; Windows Server 2003  
+_Applies to:_ &nbsp; Windows Server 2003 ~ Windows Server 2022    
 _Original KB number:_ &nbsp; 555252
 
 ## Tips
@@ -43,8 +43,8 @@ _Original KB number:_ &nbsp; 555252
 
         `fqdn` = Fully qualified domain name of the Root Certification Authority Server.
 
-    2. Select **Download a CA certificate, certificate chain, or CRL**.
-    3. Select **Download CA certificate**.
-    4. Save the file "**certnew.cer**" in local disk store.
+    3. Select **Download a CA certificate, certificate chain, or CRL**.
+    4. Select **Download CA certificate**.
+    5. Save the file "**certnew.cer**" in local disk store.
 
 [!INCLUDE [Community Solutions Content Disclaimer](../../includes/community-solutions-content-disclaimer.md)]
